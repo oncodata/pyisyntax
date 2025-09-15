@@ -4,7 +4,6 @@ version = "0.1.5"
 description = "Python bindings for libisyntax"
 readme = { content-type = "text/markdown", file = "README.md" }
 license = { text = "MIT" }
-license-files = ["LICENSE"]
 authors = [{ name = "Aiden Nibali", email = "dismaldenizen@gmail.com" }]
 requires-python = ">=3.10"
 dependencies = [
